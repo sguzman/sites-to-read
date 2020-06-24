@@ -1,2 +1,7 @@
 # sites-to-read
 Read these sites
+
+### Sites
+- [Rob van Glabbeek](http://theory.stanford.edu/~rvg/)
+- [Abstracts](http://theory.stanford.edu/~rvg/abstracts.html)
+- [Understanding Darcs/Patch theory](https://en.wikibooks.org/wiki/Understanding_Darcs/Patch_theory)
