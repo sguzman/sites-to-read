@@ -8,3 +8,4 @@ Read these sites
 - [Comparison of parser generators](https://en.wikipedia.org/wiki/Comparison_of_parser_generators)
 - [Parsing](https://en.wikipedia.org/wiki/Parsing)
 - [ArXiv's CS section](https://arxiv.org/)
+- [Pijul on Hacker news](https://news.ycombinator.com/item?id=22021309)
