@@ -13,3 +13,4 @@ Read these sites
 - [The Next 7000 Programming Languages](https://link.springer.com/chapter/10.1007/978-3-319-91908-9_15)
 - [Chris Barker's web page](http://www.nyu.edu/projects/barker/)
 - [ a toolkit for language and grammar](http://languagemachine.sourceforge.net/)
+- [The Era of Fragmentation, Part 4: The Anarchists](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
