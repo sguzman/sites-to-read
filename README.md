@@ -31,3 +31,4 @@ Read these sites
 - [Hypercore is a distributed append-only log](https://hypercore-protocol.org/)
 - [Urbit](https://urbit.org/)
 - [swMath](https://swmath.org/)
+- [Mathematician Proves Huge Result on ‘Dangerous’ Problem](https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/)
