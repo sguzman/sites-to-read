@@ -32,4 +32,4 @@ Read these sites
 - [Urbit](https://urbit.org/)
 - [swMath](https://swmath.org/)
 - [Mathematician Proves Huge Result on ‘Dangerous’ Problem](https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/)
-- [](https://www.scottaaronson.com/blog/?p=304)
+- [Ten Signs a Claimed Mathematical Breakthrough is Wrong](https://www.scottaaronson.com/blog/?p=304)
