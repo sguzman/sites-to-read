@@ -18,3 +18,6 @@ Read these sites
 - [Implementing a system call for OpenBSD](https://poolp.org/drafts/2020-05-28-015100-copy/)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
+- [Hilbert II](http://qedeq.org/index.html)
+- [libalf: The Automata Learning Framework](http://libalf.informatik.rwth-aachen.de/)
+- [Grammatical Framework](http://www.grammaticalframework.org/)
