@@ -26,3 +26,5 @@ Read these sites
 - [Interactive Three-body Gallery](https://rreusser.github.io/periodic-three-body-orbits/)
 - [Canadian scuba diver in Mexico accidentally discovers vast, prehistoric industrial complex](https://nationalpost.com/news/world/a-canadian-scuba-diver-in-mexico-accidentally-discovers-a-vast-prehistoric-industrial-complex)
 - [Welcome to MaXX Interactive Desktop](https://maxxinteractive.com/)
+- [Castor](https://sr.ht/~julienxx/Castor/)
+- [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
