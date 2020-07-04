@@ -21,3 +21,4 @@ Read these sites
 - [Hilbert II](http://qedeq.org/index.html)
 - [libalf: The Automata Learning Framework](http://libalf.informatik.rwth-aachen.de/)
 - [Grammatical Framework](http://www.grammaticalframework.org/)
+- [ricky reusser](http://rreusser.github.io/)
