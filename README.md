@@ -28,3 +28,5 @@ Read these sites
 - [Welcome to MaXX Interactive Desktop](https://maxxinteractive.com/)
 - [Castor](https://sr.ht/~julienxx/Castor/)
 - [A look at the Gemini protocol: a brutally simple alternative to the web](https://toffelblog.xyz/blog/gemini-overview/)
+- [Hypercore is a distributed append-only log](https://hypercore-protocol.org/)
+- [Urbit](https://urbit.org/)
