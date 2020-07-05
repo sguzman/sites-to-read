@@ -34,3 +34,4 @@ Read these sites
 - [Mathematician Proves Huge Result on ‘Dangerous’ Problem](https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/)
 - [Ten Signs a Claimed Mathematical Breakthrough is Wrong](https://www.scottaaronson.com/blog/?p=304)
 - [Wittgenstein’s “notorious paragraph” about the Gödel Theorem](http://wab.uib.no/agora/tools/alws/collection-6-issue-1-article-6.annotate)
+- [Proof sketch for Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/Proof_sketch_for_G%C3%B6del%27s_first_incompleteness_theorem)
