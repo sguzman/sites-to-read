@@ -36,3 +36,5 @@ Read these sites
 - [Wittgenstein’s “notorious paragraph” about the Gödel Theorem](http://wab.uib.no/agora/tools/alws/collection-6-issue-1-article-6.annotate)
 - [Proof sketch for Gödel's first incompleteness theorem](https://en.wikipedia.org/wiki/Proof_sketch_for_G%C3%B6del%27s_first_incompleteness_theorem)
 - [Gödel Machine](https://en.wikipedia.org/wiki/G%C3%B6del_machine)
+- [What is the Xena project](https://xenaproject.wordpress.com/what-is-the-xena-project/)
+-
